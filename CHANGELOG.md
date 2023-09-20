@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.0 (2023-09-20)
+
+
+### Features
+
+* I did some stuff to generate an artifact ([8abb6bb](https://github.com/suuunly/demo-ts-transformer/commit/8abb6bb2f5d147eb059f0c242a6d25a6026b1749))
+
 ## [1.3.0](https://github.com/flowcore-io/nodejs-typescript-transformer-example/compare/v1.2.0...v1.3.0) (2023-09-12)
 
 
