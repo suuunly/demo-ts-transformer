@@ -12,6 +12,9 @@ interface Input<T = any> {
 
 export default async function (input: Input) {
   console.info(`Received event ${input.eventId}, with payload ${JSON.stringify(input.payload)} and valid time ${input.validTime}`);
+
+  console.log("hello world");
+
   return {
     eventId: input.eventId,
     validTime: input.validTime,
